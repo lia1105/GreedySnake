@@ -13,6 +13,7 @@ import androidx.annotation.Nullable;
 
 public class GameView extends View {
     Monkey monkey;
+    
     public GameView(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
     }
